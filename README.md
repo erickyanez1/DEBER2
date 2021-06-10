@@ -29,9 +29,9 @@
 - Capítulo 4
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
-- Ejercicio 3
+- Capítulo 3
 
-- Ejercicio 4
+- Capítulo 4
 
 # **4. VÍDEO**
 
