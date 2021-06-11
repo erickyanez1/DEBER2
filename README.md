@@ -81,6 +81,12 @@
 
 - Capítulo 4
 
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/Cap4_Part1.jpg)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/Cap4_Part2.jpg)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/Cap4_Part3.jpg)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/Cap4_Part4.jpg)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/Cap4_Part5.jpg)
+
 # **4. VÍDEO**
 
 
