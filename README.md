@@ -21,7 +21,6 @@
  **OBJETIVOS ESPECÍFICOS**
   - Determinar las condideraciones de los distintos tipos de cable sólido y de hilo mediante las fórmulas de los cálculos de resistividad, áreas de secciones transversales e intensidades.
   - Determinar como la Ley de Ohm influye en circuitos electrónicos básicos mediante el análisis gráfico y conceptual de los mismos aplicando las leyes y cálculos necesarios para la realización de un buen circuito.
-  - asd.
 
 # **2. MARCO TEÓRICO**
 - Capítulo 3
@@ -96,7 +95,7 @@
 Se concluye que:
 
 - La Ley de Ohm es esencial al momento de realizar algún circuito electrónico, debido a que nos permite realizar los cálculos exactos o aproximados con decimales con el fin de tener la presencia de los valores que circulan por el circuito en cuestión.
-- asd
-- asd
+- s.
+
 
 # **6. BIBLIOGRAFÍA**
