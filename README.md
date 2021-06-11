@@ -84,6 +84,8 @@
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej1_cap4.png)
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej3_cap4.png)
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej5_cap4.png)
+
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej7_cap4.png)
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej9_cap4.png)
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej11_cap4.png)
