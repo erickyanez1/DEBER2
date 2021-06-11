@@ -20,7 +20,7 @@
  
  **OBJETIVOS ESPECÍFICOS**
   - Determinar las condideraciones de los distintos tipos de cable sólido y de hilo mediante las fórmulas de los cálculos de resistividad, áreas de secciones transversales e intensidades.
-  - lkj
+  - Determinar como la Ley de Ohm influye en circuitos electrónicos básicos mediante el análisis gráfico y conceptual de los mismos aplicando las leyes y cálculos necesarios para la realización de un buen circuito.
   - asd.
 
 # **2. MARCO TEÓRICO**
