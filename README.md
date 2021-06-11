@@ -16,11 +16,11 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - asd.
+  - Comprender La Ley de Ohm para la manipulación de cálculos de Voltaje, Intensidad y Resistencia en Circuitos Electrónicos lo cual permita el conocimiento profundo de nuestro circuito a realizar.
  
  **OBJETIVOS ESPECÍFICOS**
-  - asd.
-  - asd.
+  - Determinar las condideraciones de los distintos tipos de cable sólido y de hilo mediante las fórmulas de los cálculos de resistividad, áreas de secciones transversales e intensidades.
+  - lkj
   - asd.
 
 # **2. MARCO TEÓRICO**
