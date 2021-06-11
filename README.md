@@ -81,6 +81,8 @@
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej45_cap3.png)
 
 - Capítulo 4
+
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej1_cap4.png)
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej3_cap4.png)
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej5_cap4.png)
