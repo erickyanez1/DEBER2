@@ -37,6 +37,8 @@
 
 - Capítulo 4
 
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/Mapa1_Cap4.jpg)
+
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 - Capítulo 3
 
