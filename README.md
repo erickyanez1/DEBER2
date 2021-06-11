@@ -88,12 +88,19 @@
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej7_cap4.png)
 
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej9_cap4.png)
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej11_cap4.png)
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej13_cap4.png)
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej15_cap4.png)
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej17cap4.png)
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej19cap4.png)
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej21_cap4.png)
+
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej23_cap4.png)
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej25_cap4.png)
 ![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/ej27_cap4.png)
