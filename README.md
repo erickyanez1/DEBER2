@@ -26,6 +26,15 @@
 # **2. MARCO TEÓRICO**
 - Capítulo 3
 
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/mapa1_cap3.png)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/mapa2_cap3.png)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/mapa3_cap3.png)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/mapa4_cap3.png)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/mapa5_cap3.png)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/mapa6_cap3.png)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/mapa7_cap3.png)
+![](https://github.com/erickyanez1/DEBER2/blob/main/IMAGENES/mapa8_cap3.png)
+
 - Capítulo 4
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
