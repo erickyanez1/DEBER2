@@ -95,7 +95,7 @@
 Se concluye que:
 
 - La Ley de Ohm es esencial al momento de realizar algún circuito electrónico, debido a que nos permite realizar los cálculos exactos o aproximados con decimales con el fin de tener la presencia de los valores que circulan por el circuito en cuestión.
-- s.
+- Al existir una quinta banda en una resistencia, nos representa el porcentaje de confiabilidad esperada de la resistencia en cuestión, para ello es necesario el conocimiento del código de colores de la resistencia con el fin de conocer los valores con solo los colores dados.
 
 
 # **6. BIBLIOGRAFÍA**
