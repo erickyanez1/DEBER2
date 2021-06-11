@@ -129,4 +129,4 @@ Se concluye que:
 
 
 # **6. BIBLIOGRAFÍA**
-- Ortiz, L. (2017). POTENCIA ELÉCTRICA. https://preparatoriaabiertapuebla.com/wp-content/uploads/2017/11/POTENCIA-EL%C3%89CTRICA.pdf
+- Ortiz, L. (2017). POTENCIA ELÉCTRICA. Recuperado de: https://preparatoriaabiertapuebla.com/wp-content/uploads/2017/11/POTENCIA-EL%C3%89CTRICA.pdf
