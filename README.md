@@ -89,7 +89,7 @@
 
 Se concluye que:
 
-- asd
+- La Ley de Ohm es esencial al momento de realizar algún circuito electrónico, debido a que nos permite realizar los cálculos exactos o aproximados con decimales con el fin de tener la presencia de los valores que circulan por el circuito en cuestión.
 - asd
 - asd
 
